@@ -13,3 +13,8 @@ https://drive.google.com/file/d/1HDURNF17TjOYYDiXiZdeqHiLq4a9SUs2/view?usp=drive
 
 1.0 Coming Out:
 https://drive.google.com/file/d/1FrNaWDOPkuP3xtRJgGiBfFtlM2ALIxQ7/view?usp=drivesdk
+
+
+
+Classic Version:
+1.0 Version: https://drive.google.com/file/d/1lpQyowMgiDJbV2ThlZAaZxVmV4yIwfjz/view?usp=drivesdk
